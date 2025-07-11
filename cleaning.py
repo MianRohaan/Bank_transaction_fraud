@@ -30,3 +30,4 @@ card_df_cleaned.to_csv("cleaned data/cards_data_cleaned.csv", index=False)
 trans_df_cleaned.to_csv("cleaned data/Transaction_data_cleaned.csv", index=False)
 users_df_cleaned.to_csv("cleaned data/users_data_cleaned.csv", index=False)
 
+print('hello world')
